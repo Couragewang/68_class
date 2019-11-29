@@ -9,6 +9,10 @@ int main()
     for(; i < n; i++){
         a[i] = i;
         printf("%d\n", a[i]);
+        printf("%d\n", a[i]);
+        printf("%d\n", a[i]);
+        printf("%d\n", a[i]);
+        printf("%d\n", a[i]);
     }
     return 0;
 }
